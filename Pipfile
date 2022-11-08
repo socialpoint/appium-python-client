@@ -14,7 +14,7 @@ black = "==21.12b0"
 pytest = "~=6.2"
 pytest-cov = "~=3.0"
 
-tox = "~=3.24"
+tox = "~=3.27"
 
 httpretty = "~=1.1"
 python-dateutil = "~=2.8"
